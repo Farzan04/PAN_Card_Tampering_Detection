@@ -16,4 +16,4 @@ This project will help different organization in detecting whether the Id i.e. t
 🔸🔶 Display Bounding rectangles:
      🔸 Bounding rectangle helps in finding the ratio of width to height of bounding rectangle of the object. We compute the bounding box of the contour and then draw the bounding box on both input images to represent where the two images are different or not.
 
-📢📢 This python program can be used in different organizations where customers or users need to provide any kind of id in order to get themselves verified. The organization can use this project to find out whether the ID is original or fake. Similarly this can be used for any type of ID like adhar card, voter id, etc. ***
+📢📢 This python program can be used in different organizations where customers or users need to provide any kind of id in order to get themselves verified. The organization can use this project to find out whether the ID is original or fake. Similarly this can be used for any type of ID like adhar card, voter id, etc. 🎊🎊🎊🎢
