@@ -11,7 +11,7 @@ This project will help different organization in detecting whether the Id i.e. t
  * We will calculate Structural similarity:
      Structural similarity index helps us to determine exactly where in terms of x,y coordinates location, the image differences are. Here, we are trying to find similarities between the original and tampered image. The lower the SSIM score lower is the similarity.
 * Calculate Threshold and Contours:
-     Threshold is a function of computer vision which applies an adaptive threshold to the image which is stored in the form array. This function transforms the grayscale image into a binary image using a mathematical formula
+     Threshold is a function of computer vision which applies an adaptive threshold to the image which is stored in the form array. This function transforms the grayscale image into a binary image using a mathematical formula,
      Contours are a useful tool for shape analysis and recoginition. Grab contours grabs the appropriate value of the contours.
 * Display Bounding rectangles:
      Bounding rectangle helps in finding the ratio of width to height of bounding rectangle of the object. We compute the bounding box of the contour and then draw the bounding box on both input images to represent where the two images are different or not.
